@@ -6,7 +6,7 @@ use WeatherApp\WeatherService;
 require_once __DIR__ . '/vendor/autoload.php';
 
 $weatherService = new WeatherService();
-$city = 'Vienna';
+$city = $argv[1];
 
 echo "Getting weather for $city...\n";
 $weather = $weatherService->getWeather($city);
