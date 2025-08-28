@@ -5,6 +5,12 @@ use WeatherApp\WeatherService;
 
 require_once __DIR__ . '/vendor/autoload.php';
 
+if ($argc < 2) {
+    echo "Usage: php weather.php <city>\n";
+    echo "Example: php weather.php London\n";
+    exit(1);
+}
+
 $weatherService = new WeatherService();
 $city = $argv[1];
 
