@@ -3,4 +3,18 @@
 
 This is the repository for demo PHP application from the PHP Fundamentals course.
 
+📺 Full Course Lessons:
+
+1️⃣ Why PHP - Discover PHP's role in modern web development
+2️⃣ Setup - Get your development environment ready
+3️⃣ Variables & Types - Learn PHP's basic building blocks
+4️⃣ Arrays - Master PHP's powerful data structures
+5️⃣ Functions - Write reusable code with modern syntax
+6️⃣ Loops - Handle data iteration effectively
+7️⃣ Classes - Understand object-oriented programming
+8️⃣ Modern PHP - Explore PHP's latest features
+9️⃣ Composer - Manage dependencies with PHP's package manager
+🔟 Your First PHP Application - Build a complete CLI app
+
+
 
